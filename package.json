@@ -1,0 +1,9 @@
+{
+    "name": "fbnewsletter", 
+    "license": "MPL 1.1/GPL 2.0/LGPL 2.1", 
+    "author": "Andrew Skinner, Zhuojie Zhou", 
+    "version": "0.1", 
+    "fullName": "Facebook NewsLetter", 
+    "id": "jid0-zVjdpumz5MmJLRNbp3aWWBcehEc", 
+    "description": "Simply get facebook newsfeed notification on time."
+}
